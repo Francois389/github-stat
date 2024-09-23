@@ -16,5 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           SHOW_PROFILE_VIEWS: False
           SHOW_COMMIT: True
-          SHOW_DAYS_OF_WEEK: True
+          SHOW_DAYS_OF_WEEK: False
           SHOW_SHORT_INFO: False
